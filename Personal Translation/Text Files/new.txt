@@ -1,0 +1,7 @@
+// ItemID | Drop | Trade | Storage | Cart | SelltoNPC | Mail | Auction | Guild Storage
+// This format does not accept blank lines. Be careful.
+500	0	0	1	0	1	1	1	0	// Warnut_Chocoball
+505	1	1	1	1	0	0	0	0	// Blue_Potion ÆÄ¶õÆ÷¼Ç
+518	1	1	1	1	0	0	0	0	// Honey ²Ü
+526	1	1	1	1	0	0	0	0	// Royal_Jelly ·Î¾âÁ¦¸®
+// Leave line below empty

@@ -1,5 +1,0 @@
-// ItemID | Drop | Trade | Storage | Cart | SelltoNPC | Mail | Auction | Guild Storage
-// This format does not accept blank lines. Be careful.
-505	1	1	1	1	0	0	0	0	// Blue_Potion ÆÄ¶õÆ÷¼Ç
-518	1	1	1	1	0	0	0	0	// Honey ²Ü
-// Leave line below empty
